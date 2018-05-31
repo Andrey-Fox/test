@@ -1,0 +1,11 @@
+body{
+    background-color: #6b98e0;
+}
+
+li{
+    display:inline-block;
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
